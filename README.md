@@ -3,7 +3,7 @@
 
 
 ### Step 1 安装依赖
-`npm install svg-spirit --save-dev`
+`npm install svg-spirit --save-dev`         
 `npm install svg-sprite-loader --save-dev`
 
 
