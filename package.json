@@ -1,0 +1,44 @@
+{
+  "name": "svg-spirit",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-service": "^3.11.0",
+    "svg-sprite-loader": "^4.1.6",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "description": "svg图标的使用",
+  "main": "./src/components/install.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cp0725/svg-spirit.git"
+  },
+  "keywords": [
+    "svg",
+    "ioc"
+  ],
+  "author": "changP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cp0725/svg-spirit/issues"
+  },
+  "homepage": "https://github.com/cp0725/svg-spirit#readme"
+}
